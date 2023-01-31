@@ -1,4 +1,4 @@
-Okay, your app QuickClips is a YouTube video downloader. It allows users to download videos from YouTube and save them to their device for offline viewing. With QuickClips, users can:
+QuickClips is a YouTube video downloader. It allows users to download videos from YouTube and save them to their device for offline viewing. With QuickClips, users can:
 
 Search for and find videos on YouTube
 Choose the desired video format and quality
