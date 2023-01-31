@@ -1,0 +1,29 @@
+{
+  "name": "quickclips",
+  "version": "1.0.0",
+  "description": "QuickClips is a YouTube video downloader. It allows users to download videos from YouTube and save them to their device for offline viewing. With QuickClips, users can:Search for and find videos on YouTube Choose the desired video format and quality Download the video to their device",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "achraf lafkiri",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "formidable": "^2.1.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^110.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.9.0",
+    "os": "^0.1.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
